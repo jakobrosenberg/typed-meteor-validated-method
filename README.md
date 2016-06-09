@@ -1,5 +1,5 @@
 # Typed Meteor Rest
-The type definition for [`meteor-validated-method`](https://github.com/meteor/validated-method)
+The type definition for [`meteor-validated-method`](https://github.com/meteor/validated-method). Thanks to Dmitry Efimenko for [starting this](https://github.com/meteor/validated-method/issues/30).
 
 ## LICENSE
 MIT
